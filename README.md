@@ -22,8 +22,6 @@ MEEV-LN: provides four tasks: 1) goal-conditioned navigation given a specific ob
 
 
 ## Installing Dependencies
-- Installing the simulator following [here](https://mligg23.github.io/MEEV-LN:-Site/Simulation%20Environment%20API.html).
-
 - Installing [GLIP](https://github.com/microsoft/GLIP).
 
 - Installing [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything).
@@ -32,7 +30,7 @@ MEEV-LN: provides four tasks: 1) goal-conditioned navigation given a specific ob
 ## Setup
 Clone the repository and install other requirements:
 ```
-git clone https://github.com/liangcici/MEEV-LN:.git
+git clone https://github.com/Leo-Yuyang/MEEV-LN:.git
 cd MEEV-LN:/
 pip install -r requirements.txt
 ```
